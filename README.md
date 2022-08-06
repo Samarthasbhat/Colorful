@@ -1,4 +1,4 @@
-# Guess_Color__Game
+# Guess_Color_Game
 
 BY USING  HTML JAVASCRIPT CSS.
 
