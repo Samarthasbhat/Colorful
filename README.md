@@ -10,4 +10,4 @@ IN EASY THE PLAYERS CAN SEE A "THREE" COLORED SQUARES AND IN HARD :six: COLORED 
 
 # RESULT (HARD LEVEL)
 
-![OUTPUT](https://github.com/Samarthasbhat/Guess_color__Game/blob/main/guess_rgb_color/color.png)
+![OUTPUT](https://github.com/Samarthasbhat/Guess_color__Game/blob/main/color.png)
